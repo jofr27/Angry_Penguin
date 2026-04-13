@@ -3,7 +3,7 @@
 A bold, aggressive, and clean theme for **Omarchy + Hyprland** featuring custom icons, Papirus integration, and a striking orange-accented aesthetic.
 
 ---
-
+![angry_penguin3](screenshots/angry_penguin3.png)
 
 ## 📦 Manual Install
 
